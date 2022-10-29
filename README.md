@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan Pablo Urgellés Pelier, @Juanpi92
 - 👀 I’m interested in Web Developmet and Technology
 - 🌱 I’m currently learning Web development, with Programadores Cariocas project
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate like Developer Jr.
 - 📫 How to reach me on linkedin: linkedin.com/in/juan-pablo-urgelles-pelier-b18489237
 
 <!---
