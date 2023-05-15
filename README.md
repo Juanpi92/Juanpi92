@@ -34,9 +34,6 @@
 
 <div align="center">
   <a href="https://github.com/Juanpi92"/>
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanpi92&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpi92&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/juanpi92/count.svg" /></p>
